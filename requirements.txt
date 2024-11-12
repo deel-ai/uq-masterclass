@@ -1,0 +1,7 @@
+puncc 
+ipykernel
+transformers
+seaborn
+torch
+ipykernel
+jupyter
